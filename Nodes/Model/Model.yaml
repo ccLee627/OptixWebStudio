@@ -1,0 +1,16 @@
+Name: Model
+Type: FolderType
+Children:
+- File: MotorObjects/MotorObjects.yaml
+- Name: MotorType
+  Id: g=35c2a8762a628595851e7afeb8c53280
+  Supertype: BaseObjectType
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 0
+  - Name: Acceleration
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 0

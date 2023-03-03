@@ -1,0 +1,114 @@
+Name: MotorObjects
+Id: g=8e2e6e769b301e9af0a5855eb0ec8fd5
+Type: FolderType
+Children:
+- Name: Motor
+  Type: MotorType
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 11
+  - Name: Acceleration
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 1
+- Name: Motor1
+  Type: MotorType
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 22
+  - Name: Acceleration
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 2
+- Name: Motor2
+  Type: MotorType
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 33
+  - Name: Acceleration
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 3
+- Name: Motor3
+  Type: MotorType
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 44
+  - Name: Acceleration
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 4
+- Name: Motor4
+  Type: MotorType
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 55
+  - Name: Acceleration
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 5
+- Name: Motor5
+  Type: MotorType
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 66
+  - Name: Acceleration
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 6
+- Name: Motor6
+  Type: MotorType
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 77
+  - Name: Acceleration
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 7
+- Name: Motor7
+  Type: MotorType
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 88
+  - Name: Acceleration
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 8
+- Name: Motor8
+  Type: MotorType
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 99
+  - Name: Acceleration
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 9
+- Name: Motor9
+  Type: MotorType
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 100
+  - Name: Acceleration
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 10
