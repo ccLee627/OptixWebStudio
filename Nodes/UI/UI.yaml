@@ -311,6 +311,24 @@ Children:
       DataType: Size
       ModellingRule: Optional
       Value: 0.0
+  - Name: Button1
+    Type: Button
+    Children:
+    - Name: Text
+      Type: BaseDataVariableType
+      DataType: LocalizedText
+      ModellingRule: Optional
+      Value: {"LocaleId":"en-US","Text":"Button1"}
+    - Name: TopMargin
+      Type: BaseVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 265.0
+    - Name: LeftMargin
+      Type: BaseVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 260.0
 - Name: MotorValuesWidget
   Id: g=d2a69256c8367489aeb9e3cc57641434
   Supertype: Panel
